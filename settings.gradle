@@ -1,0 +1,4 @@
+rootProject.name = 'kotlin.graalvm.template'
+include 'launcher'
+include 'language'
+
